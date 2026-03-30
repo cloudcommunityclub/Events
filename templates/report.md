@@ -38,12 +38,12 @@
 
 ---
 
-## 💡 Improvements
+## Improvements
 - 
 
 ---
 
-## 📎 Attachments
+## Attachments
 - Posters
 - Photos
 - Feedback forms
